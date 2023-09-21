@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _strngcpy - Copy Source To location Character
+ * _strcpy - Copy Source To location Character
  * @dst:location
  * @sorc:Source0
  * Return: Copy Of Char *
